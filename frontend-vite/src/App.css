@@ -1,0 +1,6 @@
+/* Application container only — all theming lives in the MUI theme. */
+.App {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
